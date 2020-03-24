@@ -1,0 +1,12 @@
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% Thu Mar 05 20:12:56 2020
+\begin{table}[ht]
+\centering
+\begin{tabular}{rllll}
+  \hline
+ & Metric & Home\_Win & Away\_Win & Draw \\ 
+  \hline
+1 & Accuracy & 61.70\% & 69.86\% & 23.53\% \\ 
+   \hline
+\end{tabular}
+\end{table}
