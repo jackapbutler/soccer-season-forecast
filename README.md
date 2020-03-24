@@ -5,5 +5,6 @@ To summarise, I used a Poisson Generalised Linear Model to predict goals scored 
 ![Image of framework](https://github.com/jackapbutler/Soccer-Season-Prediction/blob/master/Elements/Poisson.png)
 
 
-After performing these prediciton on the second season fixtures I wanted to generate a stochastic simulation of potential league table outcomes. This was completed using a Poisson distribution where the rate parameter for the fixture is the average home/away goals scored by each individual team based on season 1.
+After performing these predictions on the second season fixtures I wanted to generate a stochastic simulation of potential league table outcomes. This was completed using a Poisson distribution where the rate parameter is the average home/away goals scored by each individual team based on season 1.
 
+![Image of framework](https://github.com/jackapbutler/Soccer-Season-Prediction/blob/master/Elements/season2_standings_predicted_sorted.PNG)
